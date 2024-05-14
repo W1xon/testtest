@@ -1,0 +1,3 @@
+Version: 1.1.2
+Weight: 41659338
+Sha: 2ssss081ec380220dccb2032c5207d1314e7ba177bba!
