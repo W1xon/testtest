@@ -1,0 +1,50 @@
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\Example Generator.exe.config
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\Example Generator.exe
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\Example Generator.pdb
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.exe
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.pdb
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\EntityFramework.dll
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\EntityFramework.xml
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.csproj.CopyComplete
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\Example Generator.exe.manifest
+C:\Users\vladi\source\repos\Example Generator\Example Generator\bin\Debug\Example Generator.application
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.exe.manifest
+C:\Users\vladi\source\repos\Example Generator\Example Generator\obj\Debug\Example Generator.application
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.exe.config
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.exe.manifest
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.application
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.exe
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.pdb
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.dll
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.xml
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.exe.manifest
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.application
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.CopyComplete
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.exe
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.pdb
+C:\Users\vladi\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.exe.config
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.exe.manifest
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.application
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.exe
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\Example Generator.pdb
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.dll
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.xml
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.AssemblyReference.cache
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.CoreCompileInputs.cache
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.exe.manifest
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.application
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.csproj.CopyComplete
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.exe
+C:\Users\Wixon\source\repos\Example Generator(new)\Example Generator\obj\Debug\Example Generator.pdb
