@@ -1,4 +1,4 @@
-Version: 1.5
+Version: 1.6
 Weight: 131264868 
 WeightUpdate: 35198062
 Sha: 21a5df407180122b03227fcbbb32c4268dbb313c!
